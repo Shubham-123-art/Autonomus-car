@@ -5,3 +5,10 @@
 Autonomus car is vehicle which is capable of sensing its environment and operating without human involvment.
 For this prupose autonomus car relies on sensors, cameras and complex machine learning algorithms as well as 
 powerful processors for executing software.
+
+Autonomus cars create and maintain a map of their surroundings based on variety of sensors situated in the different 
+parts of the vehicle. Radar sensors monitor the position of nearby vehicles at the same time video cameras detect traffic
+lights, read road signs and track other vehicles.
+
+Sensors bounce the pulses of light off the car's surroundings to measure the distances, detect road edges and identify 
+lane markings.
